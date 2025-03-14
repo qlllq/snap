@@ -1,14 +1,1 @@
-{
-  "versionCode": 999999,
-  "versionName": "13.30.0.42",
-  "Msg": "New update is available, to continue in our app please update it.
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
-  "downloadLink": "https://t.me/Mods_Plus"
-  }
+{ "show_message": true, "title": "UPDATE FOUND", "content_url": " ", "positive_btn": "LET'S Download", "link": "https://t.me/Mods_Plus", "cancelable": true }
