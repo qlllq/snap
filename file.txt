@@ -1,0 +1,1 @@
+{ "show_message": true, "title": "UPDATE FOUND", "content_url": " ", "positive_btn": "LET'S Download", "link": "https://t.me/Mods_Plus", "cancelable": true }
