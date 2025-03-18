@@ -1,1 +1,1 @@
-{ "show_message": false, "title": "يوجد تحديث جديد", "content_url": " اضافة حماية من الحظر ✅ ", "positive_btn": "انقر لتحميل التحديث", "link": "https://t.me/Mods_Plus", "cancelable": true }
+{ "show_message": true, "title": "يوجد تحديث جديد", "content_url": " اضافة حماية من الحظر ✅ ", "positive_btn": "انقر لتحميل التحديث", "link": "https://t.me/Mods_Plus", "cancelable": true }
