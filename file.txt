@@ -1,1 +1,1 @@
-{ "show_message": true, "title": "يوجد تحديث جديد", "content_url": " https://raw.githubusercontent.com/qlllq/snap-txt/refs/heads/main/new.json ", "positive_btn": "انقر لتحميل التحديث", "link": "https://t.me/Mods_Plus", "cancelable": true }
+{ "show_message": false, "title": "يوجد تحديث جديد", "content_url": " https://raw.githubusercontent.com/qlllq/snap-txt/refs/heads/main/new.json ", "positive_btn": "انقر لتحميل التحديث", "link": "https://t.me/Mods_Plus", "cancelable": true }
